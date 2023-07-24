@@ -8,4 +8,6 @@ console.log("Bangladesh")
 
 // .gitignore
 
+// git remote -v
+
 console.log("I love bangladesh")
