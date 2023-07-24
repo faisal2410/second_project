@@ -11,3 +11,6 @@ console.log("Bangladesh")
 // git remote -v
 
 console.log("I love bangladesh")
+
+let studentName = "Faisal ahmed";
+console.log(studentName);
